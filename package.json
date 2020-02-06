@@ -1,0 +1,9 @@
+{
+  "name": "node-mssql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mssql": "^6.0.1"
+  }
+}
